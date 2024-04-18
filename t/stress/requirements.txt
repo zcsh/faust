@@ -3,3 +3,4 @@ raven-aiohttp>=0.7.0
 envoy
 setproctitle
 jinja2
+aiohttp>=3.9.4 # not directly required, pinned by Snyk to avoid a vulnerability
