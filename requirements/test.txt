@@ -1,4 +1,4 @@
-hypothesis>=3.31
+hypothesis>=6.0.4
 freezegun>=0.3.11
 pytest-aiofiles>=0.2.0
 pytest-aiohttp>=0.3.0
