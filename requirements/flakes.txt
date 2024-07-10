@@ -13,3 +13,4 @@ flake8-pytest
 flake8-tuple
 flake8-quotes
 flake8>=3.6.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
