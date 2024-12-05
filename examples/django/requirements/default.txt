@@ -2,3 +2,4 @@ django
 faust[rocksdb]
 eventlet
 aioeventlet
+aiohttp>=3.10.11 # not directly required, pinned by Snyk to avoid a vulnerability
